@@ -12,7 +12,7 @@ db = client['TEST']
 users_collection = db['PAID']
 
 # Bot Configuration
-TELEGRAM_BOT_TOKEN = '8186143877:AAHeJmY4eIJVhBM5BpeSdi4APxUhVye4K0A'
+TELEGRAM_BOT_TOKEN = '7846552704:AAFSFpbYnMmCCbg8nkO7G99VPgEiuTYPgYQ'
 ADMIN_USER_IDS = [5616232839, 6903781705]  # List of admin user IDs
 ADMIN_USERNAME = 'KvnAlpha'  # Replace with your admin's Telegram username (without @)
 
